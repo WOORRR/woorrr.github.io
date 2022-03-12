@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "woorrr's 환경설정의 제목"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
